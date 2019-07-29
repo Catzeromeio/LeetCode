@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelTitle", "ExcelTitle\ExcelTitle.csproj", "{DE01D51C-11A9-4417-8343-0D9147463A92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertDecimal", "ConvertDecimal\ConvertDecimal.csproj", "{768BF583-DBD8-4626-838F-1D9AAF4A5E0C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DE01D51C-11A9-4417-8343-0D9147463A92}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE01D51C-11A9-4417-8343-0D9147463A92}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE01D51C-11A9-4417-8343-0D9147463A92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{768BF583-DBD8-4626-838F-1D9AAF4A5E0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{768BF583-DBD8-4626-838F-1D9AAF4A5E0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{768BF583-DBD8-4626-838F-1D9AAF4A5E0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{768BF583-DBD8-4626-838F-1D9AAF4A5E0C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
